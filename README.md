@@ -4,11 +4,11 @@
 Este repositorio está destinado a la materia **Teoría de la Computación** en la Universidad Nacional de Misiones. Aquí documentaremos los trabajos prácticos y proyectos desarrollados a lo largo de la cursada.
 
 ## Integrantes
-- Diaz Exequiel Andres ([exequielandresdiaz@gmail.com](mailto:exequielandresdiaz@gmail.com))
-- Facal Daniela Luján ([facallujan@gmail.com](mailto:facallujan@gmail.com))
-- Küster Joaquín ([joaquinkuster3000@gmail.com](mailto:joaquinkuster3000@gmail.com))
-- Martinez Lázaro Ezequiel ([lazamartinez1999@gmail.com](mailto:lazamartinez1999@gmail.com))
-- Pergher Lucas Maurice ([lucasperghersier@gmail.com](mailto:lucasperghersier@gmail.com))
+- Diaz Exequiel Andres ([GitHub](https://github.com/exequieldev) | [Correo](mailto:exequielandresdiaz@gmail.com))
+- Facal Daniela Luján ([GitHub](https://github.com/LujanDanielaFacal) | [Correo](mailto:facallujan@gmail.com))
+- Küster Joaquín ([GitHub](https://github.com/joaquinkuster) | [Correo](mailto:joaquinkuster3000@gmail.com))
+- Martinez Lázaro Ezequiel ([GitHub](https://github.com/lazamartinez) | [Correo](mailto:lazamartinez1999@gmail.com))
+- Pergher Lucas Maurice ([GitHub](https://github.com/LucasMPergher) | [Correo](mailto:lucasperghersier@gmail.com))
 
 
 ## Proyecto
