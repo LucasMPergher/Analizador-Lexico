@@ -17,7 +17,7 @@ Aún no se ha definido el proyecto principal. Próximamente se actualizará con 
 ## Contribución
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu_usuario/teoria-de-la-computacion.git
+   git clone https://github.com/LucasMPergher/Analizador-Lexico.git
    ```
 2. **Crear una rama nueva para cada cambio:**
    ```sh
