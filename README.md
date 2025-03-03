@@ -1,6 +1,6 @@
 # Teoría de la Computación 
 
-## Repositorio de la materia
+## Repositorio de la materia 
 Este repositorio está destinado a la materia **Teoría de la Computación** en la Universidad Nacional de Misiones. Aquí documentaremos los trabajos prácticos y proyectos desarrollados a lo largo de la cursada.
 
 ## Integrantes
